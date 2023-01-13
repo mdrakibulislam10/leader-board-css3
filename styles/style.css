@@ -243,6 +243,7 @@ hr {
 
     .container {
         width: 100%;
+        padding: 0;
     }
 
     .section-title {
@@ -268,6 +269,7 @@ hr {
 @media screen and (min-width:689px) and (max-width:992px) {
     .container {
         width: 100%;
+        padding: 0;
     }
 
     .section-title {
